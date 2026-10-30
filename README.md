@@ -278,5 +278,7 @@ psql -U postgres -d instacart_medallion -f script_layers/eda_from_gold_layer/mar
 
 ---
 ### Author
+```bash
 Tanishq Gupta
+'''
 
